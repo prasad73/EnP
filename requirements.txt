@@ -1,0 +1,17 @@
+cvui==2.7
+imageio==2.6.1
+imutils==0.5.3
+joblib==0.14.0
+matplotlib==3.1.1
+numpy==1.14.6
+opencv-contrib-python==4.1.1.2
+pandas==0.24.2
+Pillow==6.2.0
+pypylon==1.4.0
+pytesseract==0.3.0
+python-dateutil==2.8.0
+python-snap7==0.10
+PyYAML==5.1.2
+scikit-image==0.16.1
+scikit-learn==0.21.3
+scipy==1.1.0
