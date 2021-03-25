@@ -11,7 +11,7 @@ pypylon==1.4.0
 pytesseract==0.3.0
 python-dateutil==2.8.0
 python-snap7==0.10
-PyYAML==5.1.2
+PyYAML==5.4
 scikit-image==0.16.1
 scikit-learn==0.21.3
 scipy==1.1.0
