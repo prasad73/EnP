@@ -4,7 +4,7 @@ imutils==0.5.3
 joblib==0.14.0
 matplotlib==3.1.1
 numpy==1.14.6
-opencv-contrib-python==4.1.1.2
+opencv-contrib-python==4.2.0.32
 pandas==0.24.2
 Pillow==6.2.0
 pypylon==1.4.0
